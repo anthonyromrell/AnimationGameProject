@@ -1,0 +1,3 @@
+[submodule "SuperFunGame/Assets/tools"]
+	path = SuperFunGame/Assets/tools
+	url = https://github.com/anthonyromrell/ArtisanDream.Tools.git
